@@ -1,7 +1,6 @@
-![Hobbies](https://raw.githubusercontent.com/masoudmanson/fileupload/2372bfa939cd76b4cbb9dd67da8cfd414c72bdf3/public/MY%20README.svg)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/masoudmanson/fileupload/2372bfa939cd76b4cbb9dd67da8cfd414c72bdf3/public/MY%20README.svg" style="max-width: 400px;">
+  <img src="https://raw.githubusercontent.com/masoudmanson/fileupload/2372bfa939cd76b4cbb9dd67da8cfd414c72bdf3/public/MY%20README.svg" style="max-width: 500px;">
 </p>
 
 <!--
