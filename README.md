@@ -2,7 +2,7 @@
 
 - 💻 I’m currently working at Fanap ICT 
 - 📫 How to reach me: [masoudmanson@gmail.com](mailto:masoudmanson@gmail.com)
-- 🧾 My Resume, if you are interested: [Massoud Amjadi](https://github.com/masoudmanson/fileupload/raw/master/public/Masoud%20Amjadi.pdf)
+- 🧾 My Resume, if you are interested: <a href="https://github.com/masoudmanson/fileupload/raw/master/public/Masoud%20Amjadi.pdf" target="_blank">Massoud Amjadi</a>
 - ⚡ Fun fact: Doom/Black Metal music helps me focus on code 😅🤘
 - 😌 My hobbies and interests include: 
 <br>
