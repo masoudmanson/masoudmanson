@@ -1,4 +1,8 @@
-![Hobbies](https://raw.githubusercontent.com/masoudmanson/fileupload/194afa36332c4d27dd4ef1bb29816ba53d6ad6f0/public/README.svg)
+![Hobbies](https://raw.githubusercontent.com/masoudmanson/fileupload/2372bfa939cd76b4cbb9dd67da8cfd414c72bdf3/public/MY%20README.svg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/masoudmanson/fileupload/2372bfa939cd76b4cbb9dd67da8cfd414c72bdf3/public/MY%20README.svg" style="max-width: 400px;">
+</p>
 
 <!--
 **masoudmanson/masoudmanson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
