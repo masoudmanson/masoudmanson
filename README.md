@@ -6,7 +6,6 @@
 - ⚡ Fun fact: Doom/Black Metal music helps me focus on code 😅🤘
 - 😌 My hobbies and interests include: 
 
-<br>
 <p align="center">
   <img width="600px" src="https://raw.githubusercontent.com/masoudmanson/fileupload/7cb75aae01070357f672568e22accaf334f89965/public/README.svg">
 </p>
