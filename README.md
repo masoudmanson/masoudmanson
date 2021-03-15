@@ -8,5 +8,5 @@
 
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/masoudmanson/fileupload/7cb75aae01070357f672568e22accaf334f89965/public/README.svg">
+  <img width="600px" src="https://raw.githubusercontent.com/masoudmanson/fileupload/7cb75aae01070357f672568e22accaf334f89965/public/README.svg">
 </p>
