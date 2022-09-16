@@ -9,3 +9,5 @@
 <p align="center">
   <img width="600px" src="https://raw.githubusercontent.com/masoudmanson/fileupload/7cb75aae01070357f672568e22accaf334f89965/public/README.svg">
 </p>
+
+<p align="center">[Masoud amjadi](https://github-readme-stats.vercel.app/api?username=masoudmanson&theme=dark&show_icons=true)</p>
