@@ -10,6 +10,6 @@
   <img width="600px" src="https://raw.githubusercontent.com/masoudmanson/fileupload/7cb75aae01070357f672568e22accaf334f89965/public/README.svg">
 </p>
  
-<div style="display: flex; justify-content: center;">
-![masoudmanson's GitHub stats](https://github-readme-stats.vercel.app/api?username=masoudmanson&theme=dark&show_icons=true)
-</div>
+<p align="center">
+  ![masoudmanson's GitHub stats](https://github-readme-stats.vercel.app/api?username=masoudmanson&theme=dark&show_icons=true)
+</p>
