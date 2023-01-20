@@ -1,4 +1,4 @@
-### Hi there 😅
+### Hi there 🥸
 
 - 💻 I’m currently working at [Deloitte Digital](https://www.deloittedigital.com/) 
 - 📫 How to reach me: [masoudmanson@gmail.com](mailto:masoudmanson@gmail.com)
