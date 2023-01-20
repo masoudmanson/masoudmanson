@@ -1,6 +1,6 @@
 ### Hi there 😅
 
-- 💻 I’m currently working at [TWG, a Deloitte business](https://twg.io/) 
+- 💻 I’m currently working at [Deloitte Digital](https://www.deloittedigital.com/) 
 - 📫 How to reach me: [masoudmanson@gmail.com](mailto:masoudmanson@gmail.com)
 - 🧾 My Resume, if you are interested: <a href="https://github.com/masoudmanson/fileupload/raw/master/public/Masoud%20Amjadi.pdf" target="_blank">Masoud Amjadi</a>
 - ⚡ Fun fact: Doom/Black Metal music helps me focus on code 😅🤘
