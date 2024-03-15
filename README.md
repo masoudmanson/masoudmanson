@@ -10,16 +10,16 @@
   <img width="600px" src="https://raw.githubusercontent.com/masoudmanson/fileupload/7cb75aae01070357f672568e22accaf334f89965/public/README.svg">
 </p>
  
-![masoudmanson's GitHub stats](https://github-readme-stats-five-omega-83.vercel.app/api?username=masoudmanson&theme=onedark&include_all_commits=true&show_icons=true&count_private=true&hide_border=true&bg_color=transparent&icon_color=698A97&text_color=ffffff)
+![masoudmanson's GitHub stats](https://github-readme-stats-five-omega-83.vercel.app/api?username=masoudmanson&theme=onedark&include_all_commits=true&show_icons=true&count_private=true&hide_border=true&bg_color=22272D&icon_color=698A97&text_color=ffffff)
 
 <picture>
   <source
-    srcset="https://github-readme-stats-five-omega-83.vercel.app/api?username=masoudmanson&theme=onedark&include_all_commits=true&show_icons=true&count_private=true&hide_border=true&theme=dark"
+    srcset="https://github-readme-stats-five-omega-83.vercel.app/api?username=masoudmanson&theme=onedark&include_all_commits=true&show_icons=true&count_private=true&hide_border=true&theme=onedark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-five-omega-83.vercel.app/api?username=masoudmanson&theme=onedark&include_all_commits=true&show_icons=true&count_private=true&hide_border=true"
+    srcset="https://github-readme-stats-five-omega-83.vercel.app/api?username=masoudmanson&include_all_commits=true&show_icons=true&count_private=true&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-five-omega-83.vercel.app/api?username=masoudmanson&theme=onedark&include_all_commits=true&show_icons=true&count_private=true&hide_border=true" />
+  <img />
 </picture>
